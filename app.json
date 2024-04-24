@@ -1,7 +1,7 @@
 {
-      "name": "BRANDED ROBOT",
+      "name": "ANIMAL ROSEBOT",
       "description": "Branded Management Bot.",
-      "logo": "https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg",
+      "logo": "https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
       "keywords": [
          "telegram",
          "modular",
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/WCGKING/BRANDED-ROBOT",
+   "repository": "https://github.com/Githubsoniaryan2/AnimalRoseBot",
    "stack": "heroku-22",
    "addons": [
       {
@@ -61,7 +61,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "6258877205"
+         "value": "1777910193"
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
@@ -71,7 +71,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "DevilsHeavenMF"
+         "value": "kinight_society"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
